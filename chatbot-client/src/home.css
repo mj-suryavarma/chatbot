@@ -1,0 +1,27 @@
+.home_page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    width: 100%;
+   height: 100vh;
+ }
+.login_container{
+ max-width: 600px;
+ margin: 0vw 15vw;
+
+}
+.whatsapp_logo{
+    display: flex;
+    justify-content: center;
+    max-width: 200px; 
+    margin: 0 28vw;
+    padding: 10px;
+    text-align: center;
+}
+
+.custom_google_login{
+    font-weight: 600;
+    font-size: 1.2rem;
+
+}
